@@ -1,2 +1,2 @@
 # week1-git-lab
-Lab assingment reposi
+Lab assingment repository
